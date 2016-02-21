@@ -1,0 +1,34 @@
+body {
+	background-color: #FFCCCC;}
+	.hlavnyobrazok{border:12px dotted black;
+		width: 500px;}
+	.hlavnyobrazok:hover {opacity: 0.7;}
+	
+	.malytext{width: 200px;}
+	.vlevo{float:left; width: 30%;}
+	.obsah{float: left; width: 60%;}
+	.malyobrazok{width: 150px; 
+		background-color: black;
+		color: white;
+		padding: 20px;
+		marging: 10px;
+		box-shadow: purple 5px 5px 5px;
+		border-radius: 20px;
+	}
+		h1{font-family: "Arial";
+		color: white;
+		background-color: black;}
+		h3{font-size: 30px;
+			color: white;}
+p{font-size: 20px;}
+li{display: inline-block; 
+font-size: 30px; 
+color: white;
+padding: 30px; marging: 30px;}
+.zalozky{background-color: purple;}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}	
+		
